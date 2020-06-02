@@ -36,15 +36,15 @@ El prototipo tiene como objetivo efectuar las primeras pruebas de diseño, optim
 * Altium Designer (v.20)
 
 ## Detalles técnicos del diseño
-**Descripción** | **Tipo** 
-- | -
-Convertidor | DC-DC
-Topología | Medio puente
-Aislación Galvánica | Transformador de alta frecuencia (center-tap)
-Potencia nominal | 600 W
-Tensión de entrada nominal | 750 V DC
-Semiconductores de potencia | SiC MOSFET
-Control | Microcontrolador embebido (c2000 - Texas Instruments)
+| **Descripción** | **Tipo** |
+| - | - |
+| Convertidor | DC-DC | 
+| Topología | Medio puente | 
+| Aislación Galvánica | Transformador de alta frecuencia (center-tap) | 
+| Potencia nominal | 600 W | 
+| Tensión de entrada nominal | 750 V DC | 
+| Semiconductores de potencia | SiC MOSFET | 
+| Control | Microcontrolador embebido (c2000 - Texas Instruments) | 
 
 ## Usar Git con este proyecto
 Para descargar este proyecto al computador local:
