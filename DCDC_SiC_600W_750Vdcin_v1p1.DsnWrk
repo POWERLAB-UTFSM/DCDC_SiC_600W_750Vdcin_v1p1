@@ -1,0 +1,14 @@
+[ProjectGroup]
+Version=1.0
+[Project1]
+ProjectPath=..\..\GitHub\POWERLAB_UTFSM\Altium_Library_POWERLAB\Altium_Library_POWERLAB.LibPkg
+[Project2]
+ProjectPath=MULTIBOARD-Project\MULTIBOARD-Project.PrjMbd
+[Project3]
+ProjectPath=SUBBOARD-sensors\SUBBOARD-sensors.PrjPcb
+[Project4]
+ProjectPath=SUBBOARD-power_stage\SUBBOARD-power_stage.PrjPcb
+[Project5]
+ProjectPath=SUBBOARD-aux_supply\SUBBOARD-aux_supply.PrjPcb
+[Project6]
+ProjectPath=SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb

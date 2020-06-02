@@ -1,0 +1,6 @@
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=3|Source=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=1|Source=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
+Record=DiagramHierarchy|SourceDocument=main.MbsDoc|Kind=Multi-board Schematic Module|Designator=2|Source=..\SUBBOARD-power_stage\SUBBOARD-power_stage.PrjPcb
+Record=SubProject|SourceDocument=main.MbsDoc|ProjectPath=..\SUBBOARD-power_stage\SUBBOARD-power_stage.PrjPcb
