@@ -55,7 +55,7 @@ GenerateClassCluster=0
 DocumentUniqueId=5b7e1938-5776-4779-95ed-b35d5609f8c9
 
 [Document2]
-DocumentPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
+DocumentPath=MULTIBOARD-Project.MbaDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=
+DocumentUniqueId=5d49730f-b00e-410d-97cd-92274f33249d
 
 [Document3]
 DocumentPath=..\SUBBOARD-power_stage\SUBBOARD-power_stage.PrjPcb
@@ -89,7 +89,7 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [Document4]
-DocumentPath=MULTIBOARD-Project.MbaDoc
+DocumentPath=..\SUBBOARD-gate_driver\SUBBOARD-gate_driver.PrjPcb
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -103,7 +103,24 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=79d5473f-9d48-4c49-be5b-77da15a72045
+DocumentUniqueId=
+
+[Document5]
+DocumentPath=..\SUBBOARD-aux_supply\SUBBOARD-aux_supply.PrjPcb
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
 [OutputGroup1]
 Name=Netlist Outputs
@@ -214,7 +231,7 @@ OutputDefault20=0
 [OutputGroup2]
 Name=Simulator Outputs
 Description=
-TargetPrinter=OneNote for Windows 10
+TargetPrinter=Microsoft Print to PDF
 PrinterOptions=Record=PrinterOptions|Copies=1|Duplex=1|TrueTypeOptions=3|Collate=1|PrintJobKind=1|PrintWhat=1
 
 [OutputGroup3]
