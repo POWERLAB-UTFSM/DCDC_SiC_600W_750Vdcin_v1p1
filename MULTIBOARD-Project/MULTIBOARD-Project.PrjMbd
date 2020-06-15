@@ -69,7 +69,7 @@ ClassGenCCAutoRoomEnabled=1
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=5d49730f-b00e-410d-97cd-92274f33249d
+DocumentUniqueId=f59512e1-a316-4f8c-9ede-9735bc5ba871
 
 [Document3]
 DocumentPath=..\SUBBOARD-power_stage\SUBBOARD-power_stage.PrjPcb
