@@ -71,6 +71,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=LDYBPFTT
 
+[GeneratedDocument1]
+DocumentPath=SUBBOARD-aux_supply 17-7-2020 16-47-03.WAS
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=SUBBOARD-aux_supply 17-7-2020 17-03-30.WAS
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -1060,12 +1068,12 @@ L17=WNNNNNNNWNNNWWWWN
 SortOrder=3
 SortLocation=0
 ReplaceSubparts=0
-MatchParameter1=Manufacturer Part Number
-MatchStrictly1=0
-MatchParameter2=Comment
+MatchParameter1=Comment
+MatchStrictly1=1
+MatchParameter2=Library Reference
 MatchStrictly2=1
-MatchParameter3=Library Reference
-MatchStrictly3=1
+MatchParameter3=Manufacturer Part Number
+MatchStrictly3=0
 PhysicalNamingFormat=$Component_$RoomName
 GlobalIndexSortOrder=3
 GlobalIndexSortLocation=0
