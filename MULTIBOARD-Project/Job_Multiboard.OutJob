@@ -15,7 +15,7 @@ LifeCycleDefinitionGUID=
 RevisionNamingSchemeGUID=
 
 [OutputGroup1]
-Name=Job1.OutJob
+Name=Job_Multiboard.OutJob
 Description=
 TargetOutputMedium=Folder Structure
 VariantName=[No Variations]
@@ -38,10 +38,10 @@ OutputName1=Bill of Materials
 OutputCategory1=Report
 OutputDocumentPath1=
 OutputVariantName1=
-OutputEnabled1=1
+OutputEnabled1=0
 OutputEnabled1_OutputMedium1=0
 OutputEnabled1_OutputMedium2=0
-OutputEnabled1_OutputMedium3=1
+OutputEnabled1_OutputMedium3=0
 OutputEnabled1_OutputMedium4=0
 OutputDefault1=0
 PageOptions1=Record=PageOptions|CenterHorizontal=True|CenterVertical=True|PrintScale=1.00|XCorrection=1.00|YCorrection=1.00|PrintKind=1|BorderSize=5000000|LeftOffset=0|BottomOffset=0|Orientation=2|PaperLength=1000|PaperWidth=1000|Scale=100|PaperSource=7|PrintQuality=-3|MediaType=1|DitherType=10|PrintScaleMode=1|PaperKind=A4|PaperIndex=9
@@ -52,22 +52,22 @@ Configuration1_Item2=OpenExported=False|AddToProject=True|ReportBOMViolationsInM
 Configuration1_Name3=GroupOrder
 Configuration1_Item3=Comment=True|Footprint=True
 Configuration1_Name4=SortOrder
-Configuration1_Item4=Designator=Up|Comment=Up|Footprint=Up
+Configuration1_Item4=ModuleAssembly=Up
 Configuration1_Name5=VisibleOrder
-Configuration1_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration1_Item5=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=83|ModuleAssembly=234
 Configuration1_Name6=VisibleOrder_Flat
-Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=120
+Configuration1_Item6=Comment=120|Description=120|Designator=120|Footprint=120|LibRef=120|Quantity=83|ModuleAssembly=234
 
 [PublishSettings]
 OutputFilePath2=
 ReleaseManaged2=1
-OutputBasePath2=
+OutputBasePath2=Project Outputs for MULTIBOARD-Project
 OutputPathMedia2=
 OutputPathMediaValue2=
 OutputPathOutputer2=[Output Type]
 OutputPathOutputerPrefix2=
 OutputPathOutputerValue2=
-OutputFileName2=
+OutputFileName2=Job_Multiboard.PDF
 OutputFileNameMulti2=
 UseOutputNameForMulti2=1
 OutputFileNameSpecial2=
@@ -101,7 +101,7 @@ OutputFileNameSpecial3=
 OpenOutput3=1
 OutputFilePath4=
 ReleaseManaged4=1
-OutputBasePath4=
+OutputBasePath4=Project Outputs for MULTIBOARD-Project
 OutputPathMedia4=
 OutputPathMediaValue4=
 OutputPathOutputer4=[Output Type]
