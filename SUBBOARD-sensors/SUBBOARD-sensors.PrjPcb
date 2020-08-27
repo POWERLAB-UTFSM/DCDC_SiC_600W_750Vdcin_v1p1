@@ -40,7 +40,7 @@ PrefsRevisionGUID=
 [Document1]
 DocumentPath=SUBBOARD-sensors.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -91,7 +91,7 @@ DocumentUniqueId=
 [Document4]
 DocumentPath=current_sensor_hall.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -108,7 +108,7 @@ DocumentUniqueId=NVABQQBD
 [Document5]
 DocumentPath=current_sensor_transformer.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -125,7 +125,7 @@ DocumentUniqueId=LTUQVEXX
 [Document6]
 DocumentPath=sstate_relay_discharge.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -142,7 +142,7 @@ DocumentUniqueId=RYXVTNBR
 [Document7]
 DocumentPath=thermocouple.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
@@ -159,7 +159,7 @@ DocumentUniqueId=EUJJQXKO
 [Document8]
 DocumentPath=voltage_sensor_HiZ_OpAmp.SchDoc
 AnnotationEnabled=1
-AnnotateStartValue=1
+AnnotateStartValue=100
 AnnotationIndexControlEnabled=1
 AnnotateSuffix=
 AnnotateScope=All
